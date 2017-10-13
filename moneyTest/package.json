@@ -1,0 +1,13 @@
+{
+	"name": "moneyTest_zj_20171011",
+	"version": "1.0.0",
+	"description": "list all the files in a directory!",
+	"preferGlobal": "true",
+	"bin": {
+		"money": "moneyTest.js"
+	},
+	"author": "catworld",
+	"engines": {
+		"node": "*"
+	}
+}

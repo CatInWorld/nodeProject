@@ -1,0 +1,13 @@
+{
+	"name": "nodefolder",
+	"version": "0.0.1",
+	"description": "list all the files in a directory!",
+	"preferGlobal": "true",
+	"bin": {
+		"nf": "nodefolder.js"
+	},
+	"author": "zjp",
+	"engines": {
+		"node": "*"
+	}
+}
